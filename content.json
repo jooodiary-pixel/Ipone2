@@ -1,0 +1,57 @@
+{
+  "character": "리쿠",
+  "conversations": [
+    {
+      "name": "리쿠",
+      "avatar": "",
+      "messages": [
+        {
+          "from": "them",
+          "text": "지금 어디야?",
+          "time": "오후 9:48"
+        },
+        {
+          "from": "me",
+          "text": "집이야. 아직 작업 중이야."
+        },
+        {
+          "from": "them",
+          "text": "또 밤새는 거야?"
+        },
+        {
+          "from": "me",
+          "text": "이것만 하고 자려고."
+        }
+      ]
+    },
+    {
+      "name": "대영",
+      "avatar": "",
+      "messages": [
+        {
+          "from": "them",
+          "text": "형, 오늘도 밤새는 거예요?"
+        }
+      ]
+    }
+  ],
+  "photos": [],
+  "notes": [
+    {
+      "title": "새벽 작업",
+      "body": "아직 끝내지 못한 멜로디."
+    }
+  ],
+  "calls": [
+    {
+      "name": "리쿠",
+      "detail": "부재중 · 어제"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "리쿠",
+      "phone": "010-0000-0000"
+    }
+  ]
+}
